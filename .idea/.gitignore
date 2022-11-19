@@ -1,4 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/src/main/resources/**
+#*.properties
+#*.sql
+
+src/main/resources/
